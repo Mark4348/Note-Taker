@@ -1,1 +1,19 @@
-[{"title":"Test Title","text":"Test text"}]
+{
+  "allNotes": [
+    {
+      "title": "Things to get done today",
+      "text": "Do laundry,\nBathe dogs,\nClean room",
+      "id": 1
+    },
+    {
+      "title": "Michelles Bday",
+      "text": "Buy a bday cake\nGet a present\nBuy candles",
+      "id": 2
+    },
+    {
+      "title": "Favorite restaraunts",
+      "text": "What a burger\nRockfish\nMiyokos sushi",
+      "id": 3
+    }
+  ]
+}
